@@ -1,4 +1,4 @@
-# Document-Based Question Answering using Hugging Face
+# DOCUMENT INFORMATION RETRIEVAL USING RAG
 
 ## Overview
 
